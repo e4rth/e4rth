@@ -1,2 +1,2 @@
-.........CAN U FEEL IT!!2!2!2;2&2#4#-2_-#&
-<img src="https://raw.githubusercontent.com/e4rth/e4rth/main/59fccd7d242a206b4f73119c87ea185b.jpg" alt="Banner" width="500"/>
+<img src="https://raw.githubusercontent.com/e4rth/e4rth/db36c58ed0be6bed9b99528753a5e71378c4e01d/682354f9dc8ac9220826cec7b7c01d52%20(1).jpg" alt="Alt Text" width="500"/>
+funny
